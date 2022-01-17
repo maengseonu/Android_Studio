@@ -8,7 +8,7 @@ package com.example.myapplication.kotlin
 // - 함수를 선언하는 방법
 // fun 함수명 (변수명: 타입, 변수명: 타입 ....) : 반환 타입 {
 //      함수내용
-//      return 반환값.
+//      return 반환값.!!!
 // }
 
 fun plus(first: Int, second: Int): Int {
