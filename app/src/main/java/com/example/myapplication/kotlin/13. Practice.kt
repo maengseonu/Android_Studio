@@ -8,7 +8,7 @@ fun main(array: Array<String>) {
     // get, set
     val number = array.get(0)
     println(number)
-//    val number1 = array.get(100) // 인데스 주의
+//    val number1 = array.get(100) // 인덱스 주의
 
     array.set(0, 100)
     val number2 = array.get(0)
