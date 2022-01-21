@@ -12,10 +12,7 @@ package com.example.myapplication.kotlin
 // }
 
 fun plus(first: Int, second: Int): Int {
-    println(first)
-    println(second)
     val result: Int = first + second
-    println(result)
     return result
 }
 
